@@ -1,0 +1,16 @@
+#show-foods{
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+}
+.card{
+  margin: 20px;
+  
+}
+.card-text{
+  padding: 20px;
+  background-color: gainsboro;
+}
+.food{
+  width: 200px;
+  height: 200px;
+  margin: 0px auto;
